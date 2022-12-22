@@ -2,4 +2,4 @@
 
 For Windows, Linux & Mac
 
-[<<< Back](../README.md)
+[<<< Back](../../../)
