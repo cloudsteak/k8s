@@ -6,7 +6,7 @@ Kubernetes basic commands and information for different platforms (AWS, Azure, D
 
 - [AKS (Azure)](./AKS/README.md)
 - [Docker Desktop](./DockerDesktop/README.md)
-- [AKS (Azure)](./EKS/README.md)
+- [EKS (AWS)](./EKS/README.md)
 
 
 ## Kubernetes (K8s) documents
